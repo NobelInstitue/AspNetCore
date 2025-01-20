@@ -1,0 +1,27 @@
+Create a New Project in Google Cloud Platform:
+i. Go to the Google Cloud Console: https://console.developers.google.com
+ii. Sign in with your Google account if you haven’t already.
+iii. Create a new project or select an existing one.
+
+2. To Create New Project Click on Select a Project/If you have already create project you will see existing project name on dashboard
+3. window will open then click on New Project.
+4. Enter Project name
+5. Click on Create
+6. In Notification click on Select Project/ On dashboard click on select Project
+7. Click on Enabled API &Services
+8.Click on Enable APIS AND SERVICES
+9. Search bar Enter Google Plus API
+10. Click on Enable button
+11.Click on OAuth consent screen
+12. Select External
+13. Enter App information App name, User support email and developer email id.
+14. Click on Save and continue
+15.Click on credential in left side menu
+16. Click on CREATE CREDENTIALS
+17. Select OAuth client Id
+18. Select Application type as Web application and enter Application name as per your wish
+19. Enter Authorized JavaScript origin enter your application localhost Url e.g.- https://localhost:7056
+20.Enter Authorized redirect URls e.g. https://localhost:7056/signin-google
+21. Click Create button
+22. Then copy Client ID and Client Secret or download JSON.
+ 
